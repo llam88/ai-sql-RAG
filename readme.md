@@ -51,7 +51,7 @@ LangChain plays a crucial role in this project:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/llam88/ai-sql-query-system.git
+   git clone https://github.com/llam88/ai-sql-RAG.git
    cd ai-sql-query-system
    ```
 
